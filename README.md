@@ -27,7 +27,7 @@
 </ul>
 </li>
 </ul>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/scouter-project/scouter/blob/master/scouter.document/img/main/dashboard-sample-1.png"><img src="/scouter-project/scouter/raw/master/scouter.document/img/main/dashboard-sample-1.png" alt="屏幕" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/scouter-project/scouter/blob/master/scouter.document/img/main/dashboard-sample-1.png"><img src="https://github.com/scouter-project/scouter/raw/master/scouter.document/img/main/dashboard-sample-1.png" alt="屏幕" style="max-width: 100%;"></a></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户使用系统上的应用程序服务，服务使用系统上的资源。您应该了解此上下文，以便有效地管理系统性能。 SCOUTER 可以帮助您。</font></font></p>
 <ul dir="auto">
 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">侦察兵表演</font></font></strong>
